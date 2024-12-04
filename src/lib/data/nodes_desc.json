@@ -11121,10 +11121,13 @@
 	},
 	"AN143": {
 		"name": "Renly's Training",
-		"stats": ["Gain 50% of Base Chance to Block from Equipped Shield instead of the Shield's value"]
+		"stats": ["Gain 40% of Base Chance to Block from Equipped Shield instead of the Shield's value"]
 	},
 	"AN144": {
 		"name": "Turtle Charm",
-		"stats": ["Can Block Damage from all Hits while Shield is not Raised"]
+		"stats": [
+			"35% Less Block Chance", 
+			"Can Block Damage from all Hits while Shield is not Raised"
+		]
 	}
 }
