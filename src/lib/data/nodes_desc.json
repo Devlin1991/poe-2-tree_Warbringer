@@ -11120,8 +11120,8 @@
 		"stats": ["20% of Damage from Hits is taken from your nearest Totem's Life before you"]
 	},
 	"AN143": {
-		"name": "",
-		"stats": []
+		"name": "Renly's Training",
+		"stats": ["Gain 50% of Base Chance to Block from Equipped Shield instead of the Shield's value"]
 	},
 	"AN144": {
 		"name": "Turtle Charm",
